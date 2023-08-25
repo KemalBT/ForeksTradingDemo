@@ -1,3 +1,5 @@
+![](https://github.com/KemalBT/ForeksTradingDemo/blob/main/ForeksTradingView.gif)
+
 # Foreks Trading Demo App
 This is a finance module application that prints the stock data from a rest endpoint to the screen.
 
